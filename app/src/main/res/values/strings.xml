@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">likeanddislike</string>
+    <string name="edit_message">Enter your text here</string>
+    <string name="button_send">Go!</string>
+    <string name="like">Нравиться</string>
+    <string name="dislike">Не нравиться</string>
+</resources>

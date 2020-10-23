@@ -1,0 +1,2 @@
+rootProject.name='likeanddislike'
+include ':app'
